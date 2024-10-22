@@ -1,0 +1,100 @@
+
+
+
+.Properties{
+    outline: 12px solid rgba(127, 255, 212,0.3);
+    background-color: rgb(243, 243, 243);
+    /* margin-left: 15px; */
+}
+.bold{
+    font-size: 30px;
+}
+.Properties:hover{
+    background-color: rgb(127, 255, 212);
+    /* color: rgb(0, 0, 0); */
+    font-weight: 900;
+        
+}
+
+.ok{
+    text-align: center;
+    font-size: 50px;
+}
+
+.b1{
+    border-radius: 20px; 
+    border: 3px solid green;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 10px;
+}
+/* center{
+    text-align: center;
+} */
+
+.box{
+    box-shadow: 0px 0px 10px gray;
+}
+
+.gol{
+    border: 1px dashed green;
+}
+
+.goli{
+    background-color: rgba(127, 255, 212,0.3);
+}
+
+/* .team{
+    background-color: white;
+} */
+
+.team .btn {
+    color: green;
+    background: #FFFFFF;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+}
+/* .btn:hover{
+    color: green;
+    background-color: transparent;
+    border: 2px solid green ;
+} */
+/* .btn2:hover{
+    background-color: #198754;
+    color: white;
+} */
+
+.box2{
+    box-shadow: 0px 0px 10px gray;
+}
+
+.ro{
+    border-radius: 150%;
+}
+
+.vv{
+    background-color: #0E2E50;
+}
+
+.nn{
+    border: 4px solid white;
+
+}
+
+.line{
+    border-right: 1px solid black;
+}
+
+.dec a{
+    text-decoration: none;
+    color: black;
+}
+
+.About{
+    color:#0e2e50;
+}
+
+/* .Apartments-bdr{
+    border: 12px solid rgba(127, 255, 212,0.3);
+    border-radius: 15px;
+} */
